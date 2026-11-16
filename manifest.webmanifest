@@ -1,0 +1,25 @@
+{
+  "id": "./deer-manager-sim-2",
+  "name": "Deer Manager Sim 2",
+  "short_name": "Deer Manager 2",
+  "description": "Retro 3D deer hunting and wildlife management simulation.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#172a29",
+  "theme_color": "#172a29",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
